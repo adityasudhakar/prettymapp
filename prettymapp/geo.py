@@ -40,7 +40,7 @@ def get_aoi(
     if address is not None:
         if coordinates is not None:
             raise ValueError(
-                "Both address and latlon coordinates were provided, please "
+                "Both address and latlon coordinates were provided, "
                 "select only one!"
             )
         try:
