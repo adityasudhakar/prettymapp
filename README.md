@@ -4,7 +4,7 @@
 
 ---
 <h3 align="center">
-    🎈 Try it out here: <a href="https://prettymapp.streamlit.app/">prettymapp on streamlit 🎈 </a>
+    🎈 Try it out here: <a href="https://adityasudhakar-prettymapp.streamlit.app/">prettymapp on streamlit 🎈 </a>
 </h3>
 
 ---
